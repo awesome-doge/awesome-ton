@@ -1,4 +1,6 @@
 # awesome-ton
+[TOC]
+
 ## Official website
 * https://ton.org/
 
@@ -11,6 +13,9 @@
 ## Old official website
 * https://test.ton.org/
 
+## Monitor
+* PoS: https://tonmon.xyz/
+* Pow: https://tonmine.xyz/
 
 ## Explorer
 * https://tonwhales.com/
